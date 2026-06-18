@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid-master/app/src/main/res/drawable/shadow_gradient.xml" value="0.1515" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid-master/app/src/main/res/layout/activity_main.xml" value="0.11676798378926039" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid-master/app/src/main/res/layout/fragment_main.xml" value="0.11676798378926039" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid-master/app/src/main/res/layout/shimmer_webview_content.xml" value="0.11676798378926039" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/ic_info.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.18" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/ic_logo_broken_opti.xml" value="0.159" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/ic_logo_broken_poplines_opti.xml" value="0.1595" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/ic_settings.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/ic_time.xml" value="0.1965" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/linologo.xml" value="0.177" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/linologo_broken.xml" value="0.159" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/linosplash.xml" value="0.1965" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/logobroken.xml" value="0.159" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/no_internet.xml" value="0.159" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/post_error.xml" value="0.159" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/shadow_gradient.xml" value="0.1965" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/spashlogo.xml" value="0.1965" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/splash_icon.xml" value="0.1965" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/drawable/splashlogo.xml" value="0.1965" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/comments_view_holder_layout.xml" value="0.33" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/fragment_comments.xml" value="0.33" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/fragment_detail.xml" value="0.25" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/fragment_main.xml" value="0.33" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/item_theme.xml" value="0.25" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/noposts.xml" value="0.33" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/post_view_holder_layout.xml" value="0.33" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/shimmer_collapsing_toolbar_layout.xml" value="0.15307971014492755" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/shimmer_post_footer_layout.xml" value="0.1651469098277609" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/shimmer_post_view_holder.xml" value="0.33" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/shimmer_tablayout_view_holder.xml" value="0.33" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/layout/shimmer_webview_content.xml" value="0.25" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/menu/menu.xml" value="0.25052083333333336" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/check_circle.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/check_circle_round.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/info.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/info_round.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/settings.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/settings_round.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/theme_auto.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/theme_auto_round.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/theme_dark.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/theme_dark_round.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/theme_light.xml" value="0.1575" />
+        <entry key="../../../../../../media/eupsychos/DATA_2/Laminux/Android/Sdk/forWPapp/LiNODroid/app/src/main/res/mipmap-anydpi-v26/theme_light_round.xml" value="0.1575" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_notification.xml" value="0.163" />
+        <entry key="app/src/main/res/drawable/commenter_foreground.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/ic_arrow_back.xml" value="0.171" />
+        <entry key="app/src/main/res/drawable/ic_check_circle.xml" value="0.171" />
+        <entry key="app/src/main/res/drawable/ic_info.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/ic_notifications.xml" value="0.1735" />
+        <entry key="app/src/main/res/drawable/ic_settings.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/ic_theme_auto.xml" value="0.171" />
+        <entry key="app/src/main/res/drawable/ic_theme_dark.xml" value="0.171" />
+        <entry key="app/src/main/res/drawable/ic_theme_light.xml" value="0.171" />
+        <entry key="app/src/main/res/drawable/ic_time.xml" value="0.171" />
+        <entry key="app/src/main/res/drawable/overflow_popup_bg.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/shadow_gradient.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/share_foreground.xml" value="0.206" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/comments_view_holder_layout.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/fragment_comments.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_detail.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/fragment_main.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_theme.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/post_view_holder_layout.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/shimmer_post_footer_layout.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/shimmer_post_view_holder.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/commenter.xml" value="0.175" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/commenter_round.xml" value="0.175" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/notifications.xml" value="0.1735" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/notifications_round.xml" value="0.131" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/settings.xml" value="0.1735" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/share.xml" value="0.206" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/share_round.xml" value="0.206" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/theme_dark.xml" value="0.1735" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.2682291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

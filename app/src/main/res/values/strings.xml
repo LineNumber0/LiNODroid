@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name" translatable="false">LiNODroid</string>
+    <string name="noComm">No Comment Yet !</string>
+    <string name="errComm">Comments not loaded !</string>
+    <string name="ShowComm">Show All Comment</string>
+    <string name="nointernet">No Internet !</string>
+    <string name="posterror">Error, content not loaded ! \nCheck your connection or try again later.</string>
+    <!-- Theme names -->
+    <string name="theme_follow_system">Follow System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+
+    <!-- Theme descriptions -->
+    <string name="theme_follow_system_desc">Automatically adapt to system theme.</string>
+    <string name="theme_light_desc">Always use light theme.</string>
+    <string name="theme_dark_desc">Always use dark theme.</string>
+
+    <!-- Messages -->
+    <string name="theme_applied_system">Using system theme</string>
+    <string name="theme_applied_light">Light theme applied</string>
+    <string name="theme_applied_dark">Dark theme applied</string>
+
+    <!-- Titles -->
+    <string name="title_settings">Settings</string>
+    <string name="notifTitle">A new article has been posted : \n%1$s</string>
+
+    <!-- Notifications -->
+    <string name="notifications_settings">Notifications</string>
+    <string name="new_post_notifications">New posts notification</string>
+    <string name="notifications_enabled">New posts notification ON</string>
+    <string name="notifications_disabled">New posts notification OFF</string>
+    <string name="switchTitle">New articles notification</string>
+    <string name="switchSum">Enable or disable notification for new posts.</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="readArticle">Read the article </string>
+    <string name="readMore">Read the article</string>
+    <string name="postLink"> at the following link :</string>
+    <string name="wrby"> written by </string>
+    <string name="dev" translatable="false">Benlamine Abdelmourhit</string>
+
+    <!-- About -->
+    <string name="about_title">About</string>
+    <string name="version_text">Version 1.0</string>
+    <string name="version_format">Version %s</string>
+    <string name="about_description_title">About this app</string>
+    <string name="about_description_template">
+        LiNODroid : (stands for LineNumberO Android) displays articles of my Blog by category in a native Android experience. \nVisit the Web Browser version in your PC :
+    </string>
+    <string name="developer_title">Developer</string>
+    <string name="developer_email" translatable="false">abdelmourhit01@gmail.com</string>
+    <string name="copyright_notice" translatable="false">© 2026 Benlamine Abdelmourhit.</string>
+
+
+</resources>

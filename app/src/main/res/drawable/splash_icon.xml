@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Your centered icon with fixed aspect ratio -->
+    <item
+        android:width="200dp"
+        android:height="200dp"
+        android:drawable="@drawable/linologo"
+        android:gravity="center" />
+
+</layer-list>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#474747</color>
+    <color name="midgray">#808080</color>
+    <color name="brandClr">#2dd520</color>
+    <color name="brandClrDark">#24A91A</color>
+
+
+
+    <color name="StatusBarColor">#fffafafa</color>
+
+    <color name="headlinesText">@color/black</color>
+    
+    <color name="tabLayoutSelectedColor">#121212</color>
+    <color name="tabLayoutIndicatorColor">#121212</color>
+
+    <color name="PostDetailColor">@color/white</color>
+
+    <color name="ContentErrorBg">#BEFF0000</color>
+    <color name="SwitchOff">#FF0000</color>
+
+
+
+
+
+
+</resources>

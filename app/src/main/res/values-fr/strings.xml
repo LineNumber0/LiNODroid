@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="noComm">Aucun commentaire pour le moment !</string>
+    <string name="errComm">Commentaires non chargés !</string>
+    <string name="ShowComm">Afficher tous les commentaires</string>
+    <string name="nointernet">Pas d\'Internet !</string>
+    <string name="posterror">Erreur, contenu non chargé ! \nVérifiez votre connexion ou réessayez plus tard.</string>
+
+    <!-- Theme names -->
+    <string name="theme_follow_system">Par défaut du système</string>
+    <string name="theme_light">Clair</string>
+    <string name="theme_dark">Sombre</string>
+
+    <!-- Theme descriptions -->
+    <string name="theme_follow_system_desc">S\'adapte automatiquement au thème du système.</string>
+    <string name="theme_light_desc">Toujours utiliser le thème clair.</string>
+    <string name="theme_dark_desc">Toujours utiliser le thème sombre.</string>
+
+    <!-- Messages -->
+    <string name="theme_applied_system">Thème du système utilisé</string>
+    <string name="theme_applied_light">Thème clair appliqué</string>
+    <string name="theme_applied_dark">Thème sombre appliqué</string>
+
+    <!-- Titles -->
+    <string name="title_settings">Paramètres</string>
+    <string name="notifTitle">Un nouvel article a été publié : \n%1$s</string>
+
+    <!-- Notifications -->
+    <string name="notifications_settings">Notifications</string>
+    <string name="new_post_notifications">Notification des nouveaux articles</string>
+    <string name="notifications_enabled">Notification des nouveaux articles ACTIVÉE</string>
+    <string name="notifications_disabled">Notification des nouveaux articles DÉSACTIVÉE</string>
+    <string name="switchTitle">Notification des nouveaux articles</string>
+    <string name="switchSum">Activer ou désactiver les notifications pour les nouveaux articles.</string>
+    <string name="share">Partager</string>
+    <string name="about">À propos</string>
+    <string name="readArticle">Lire l\'article </string>
+    <string name="readMore">Lisez l\'article</string>
+    <string name="postLink"> au lien suivant :</string>
+    <string name="wrby"> écrit par </string>
+
+    <!-- About -->
+    <string name="about_title">À propos</string>
+    <string name="version_text">Version 1.0</string>
+    <string name="version_format">Version %s</string>
+    <string name="about_description_title">À propos de cette application</string>
+    <string name="about_description_template">
+        LiNODroid : (LineNumberO Android en bref) permet de consulter les articles rédigés en Anglais de mon blog, affichés par catégorie dans une interface native d\'Android. \nVisitez la version navigateur Web sur votre PC :
+    </string>
+    <string name="developer_title">Développeur</string>
+</resources>

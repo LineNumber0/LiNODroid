@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="StatusBarColor">#121212</color>
+
+    <color name="headlinesText">@color/white</color>
+
+    <color name="tabLayoutSelectedColor">@color/brandClr</color>
+    <color name="tabLayoutIndicatorColor">@color/brandClr</color>
+
+    <color name="PostDetailColor">@color/black</color>
+
+</resources>
