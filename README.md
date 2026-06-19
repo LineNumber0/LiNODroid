@@ -11,10 +11,20 @@ This project "LiNODroid" developed by Benlamine Abdelmourhit (abdelmourhit01@gma
 <p align="center">
 <img src="screenshots/preview.png"/>
 </p>
+
 <p align="center">
 <img src="screenshots/article.png" width="250"/>
+</p>
+
+<p align="center">
 <img src="screenshots/menu.jpg" width="250"/>
+</p>
+
+<p align="center">
 <img src="screenshots/settings.png" width="250"/>
+</p>
+
+<p align="center">
 <img src="screenshots/notif.png" width="250"/>
 </p>
 
