@@ -4,7 +4,7 @@
 
 # Introduction 👋
 
-This project "LiNODroid" developed by Benlamine Abdelmourhit (abdelmourhit01@gmail.com) was based on "WordDroid" which provides an example of using WordPress REST API to access content within any WordPress site. 
+This project "LiNODroid" developed by Benlamine Abdelmourhit (abdelmourhit01@gmail.com) was based on "<a href="https://github.com/Elmountahiii/WordDroid">WordDroid</a>" which provides an example of using WordPress REST API to access content within any WordPress site. 
 
 # Results 🥳
 
