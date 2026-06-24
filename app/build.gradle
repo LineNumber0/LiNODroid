@@ -13,7 +13,7 @@ android {
 
         }
         release {
-            storeFile file('/media/user-ts/DATA-EXT4/Android/Sdk/forWPapp/LiNODroid/abderukey')
+            storeFile file('')
         }
     }
     compileSdkVersion 32
